@@ -1,9 +1,9 @@
-# Tibia — BattlEye Removal Tool
+# Tibia Client — BattlEye Removal Tool
 
 ## What's this?
 It's a simple Node.js browser tool for removing BattlEye protection of your Tibia Client (client.exe).
 
-![UI](https://i.ibb.co/nQgR0DL/tela1.png)
+![UI](https://i.ibb.co/Fqw4j3z/ui-image.png)
 
 ## First install Node.js 
 <https://nodejs.org/en/>
