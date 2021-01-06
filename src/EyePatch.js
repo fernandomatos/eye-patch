@@ -4,7 +4,7 @@ const formidable = require('formidable');
  
 const app = express();
 
-function BeRemoval(){
+function EyePatch(){
 	app.get('/', (req, res) => {
 	res.send(`
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
@@ -16,8 +16,8 @@ function BeRemoval(){
 					<hr />
 					<div class="card" style="width: 100%">
 						<div class="card-body">
-							<h5 class="card-title">Use this tool to remove BattlEye protection of your client.exe</h5>
-							<p class="card-text">Select your client file, click to upload, download & ovewrite your <b>client.exe</b> in the /bin folder.</p>
+							<h5 class="card-title">Use this tool to remove BattlEye of your client.exe</h5>
+							<p class="card-text">Select your client file, click to upload, download & ovewrite your <b>client.exe</b> in the <i>/bin</i> folder.</p>
 							<form class="form" action="/" enctype="multipart/form-data" method="post">
 								<div class="form-group">
 									<label for="exampleInputEmail1">Select your Tibia Client (client.exe)</label>
@@ -27,6 +27,9 @@ function BeRemoval(){
 								<button type="submit" class="btn btn-success">Upload</button>
 							</form>
 						</div>
+					</div>
+					<div class="text-center mt-2">
+					<a href="https://github.com/fernandomatos/eye-patch" target="_blank">https://github.com/fernandomatos/eye-patch</a>
 					</div>
 				</div>
 			</div>
@@ -62,5 +65,5 @@ function BeRemoval(){
 }
 
 
-module.exports = BeRemoval;
+module.exports = EyePatch;
 

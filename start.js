@@ -1,2 +1,2 @@
-var BeRemoval = require('./');
-BeRemoval();
+var EyePatch = require('./');
+EyePatch();

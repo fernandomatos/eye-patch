@@ -1,8 +1,8 @@
 {
-  "name": "be-removal",
+  "name": "nodejs-eyepatch",
   "version": "0.0.1",
   "description": "Written in Javascript for OTS",
-  "main": "src/BeRemoval.js",
+  "main": "src/EyePatch.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs": "rm -rf ./docs && jsdoc ./ -r -c ./jsdoc.json -d docs"
