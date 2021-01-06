@@ -1,0 +1,2 @@
+var BeRemoval = require('./');
+BeRemoval();

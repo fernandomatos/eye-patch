@@ -1,0 +1,23 @@
+{
+  "name": "be-removal",
+  "version": "0.0.1",
+  "description": "Written in Javascript for OTS",
+  "main": "src/BeRemoval.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "rm -rf ./docs && jsdoc ./ -r -c ./jsdoc.json -d docs"
+  },
+  "keywords": [
+    "ots"
+  ],
+  "author": {
+    "name": "Fernando Matos",
+    "email": "mail@fernandomatos.com.br"
+  },
+  "license": "GPL-3.0 License",
+  "dependencies": {
+    "express": "^4.17.1",
+    "formidable": "^1.2.2"
+  },
+  "devDependencies": {}
+}
