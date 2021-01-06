@@ -17,7 +17,7 @@ function BeRemoval(){
 					<div class="card" style="width: 100%">
 						<div class="card-body">
 							<h5 class="card-title">Use this tool to remove Battle Eye protection of your client.exe</h5>
-							<p class="card-text">Select your file, click to upload and download an save in /bin folder your new .EXE without Battle Eye.</p>
+							<p class="card-text">Select your client file, click to upload, download & ovewrite your <b>client.exe</b> in the /bin folder.</p>
 							<form class="form" action="/" enctype="multipart/form-data" method="post">
 								<div class="form-group">
 									<label for="exampleInputEmail1">Select your Tibia Client (client.exe)</label>
