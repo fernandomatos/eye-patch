@@ -24,3 +24,6 @@ $ node start
 ## Browser access
 After starting node, just access http://localhost:3000 on your browser.
 
+## About
+Get to know this project and other projects developed by [OtBR](https://forums.otserv.com.br) community contributors.
+

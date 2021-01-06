@@ -30,6 +30,8 @@ function EyePatch(){
 					</div>
 					<div class="text-center mt-2">
 					<a href="https://github.com/fernandomatos/eye-patch" target="_blank">https://github.com/fernandomatos/eye-patch</a>
+					<br />
+					<small>Get to know this project and other projects developed by <a href="https://forums.otserv.com.br" target="_blank">OtBR</a> community contributors.</small>
 					</div>
 				</div>
 			</div>
