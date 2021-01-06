@@ -1,11 +1,11 @@
-# Tibia — Battle Eye Removal Tool
+# Tibia — BattlEye Removal Tool
 
 ## What's this?
-It's a simple Node.js browser tool for removing Battle Eye protection of your Tibia Client (client.exe).
+It's a simple Node.js browser tool for removing BattlEye protection of your Tibia Client (client.exe).
 
- ![Image of Yaktocat](https://i.ibb.co/nQgR0DL/tela1.png)
+![UI](https://i.ibb.co/nQgR0DL/tela1.png)
 
-## Install Node.JS first
+## First install Node.js 
 <https://nodejs.org/en/>
 
 ## Running
@@ -20,6 +20,5 @@ $ node start
 ```
 
 ## Browser access
-
 After starting node, just access http://localhost:3000 on your browser.
 

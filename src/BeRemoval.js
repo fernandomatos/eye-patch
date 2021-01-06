@@ -12,11 +12,11 @@ function BeRemoval(){
 		<div class="container h-100">
 			<div class="row h-100 justify-content-center align-items-center">
 				<div class="col-md-12">
-					<h1>Tibia Client — Battle Eye Removal Tool</h1>
+					<h1>Tibia Client — BattlEye Removal Tool</h1>
 					<hr />
 					<div class="card" style="width: 100%">
 						<div class="card-body">
-							<h5 class="card-title">Use this tool to remove Battle Eye protection of your client.exe</h5>
+							<h5 class="card-title">Use this tool to remove BattlEye protection of your client.exe</h5>
 							<p class="card-text">Select your client file, click to upload, download & ovewrite your <b>client.exe</b> in the /bin folder.</p>
 							<form class="form" action="/" enctype="multipart/form-data" method="post">
 								<div class="form-group">
